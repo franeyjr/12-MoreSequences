@@ -488,7 +488,7 @@ def run_test_fancy_polygon():
     #   For all these, filling the circles with one color and using
     #   a contrasting color for the lines makes them especially pretty.
     # -------------------------------------------------------------------------
-
+    title = 'Test 4'
 
 def fancy_polygon(window, circle, number_of_lines, hops_to_next_point, color,
                   thickness):
